@@ -1,0 +1,23 @@
+# Individual projects (private, not tracked)
+/projects/
+
+# Build artifacts
+build/
+*.elf
+*.nro
+*.nacp
+*.pfs0
+*.nsp
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# devkitPro generated
+*.d
+*.o
+*.lst
